@@ -31,7 +31,7 @@ A command-line AI assistant that answers questions by using three tools: a calcu
 ## Installation
 
 ```bash
-git clone https://github.com/your-username/ai_research_agent.git
+git clone https://github.com/Asadullah-04/ai_research_agent.git
 cd ai_research_agent
 pip install -r requirements.txt
 ```
