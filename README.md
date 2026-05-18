@@ -79,7 +79,7 @@ Agent: 15% of 340 is 51.
 ## Running tests
 
 ```bash
-pytest tests/ -v
+python -m pytest tests -v
 ```
 
 Tests do not require an API key — the agent tests use mocking.
