@@ -120,7 +120,7 @@ This is designed to run locally as a CLI tool. To run it on another machine:
 3. Set the `ANTHROPIC_API_KEY` in a `.env` file
 4. Run `python main.py`
 
-No server, no Docker, no extra setup needed.
+No server, no Docker, no extra setup needed. 
 
 ---
 
