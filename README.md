@@ -129,3 +129,4 @@ No server, no Docker, no extra setup needed.
 - The calculator uses Python's `ast` module instead of `eval` to prevent code injection
 - File reading is limited to 3000 characters for text files and 60 rows for CSV files
 - Web search uses DuckDuckGo and does not require an API key
+- All tests passed successfully using pytest.
